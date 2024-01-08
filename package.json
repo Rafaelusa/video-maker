@@ -11,5 +11,8 @@
     "url": "(https://github.com/Rafaelusa/video-maker.git)"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
